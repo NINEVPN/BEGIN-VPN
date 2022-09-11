@@ -1,5 +1,5 @@
 {
-  "Version_update": "1.6",
+  "Version_update": "1.7",
   "Link_zip": "https://github.com/NINEVPN/begin/blob/main/beginvpn.zip?raw=true",
   "Password": "140690",
   "Message": "BEGIN VPN
